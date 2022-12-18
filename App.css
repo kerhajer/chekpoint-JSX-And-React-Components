@@ -1,0 +1,40 @@
+.containerr{
+  background-color: #e5faf8;
+
+  width: 1470px;
+  height: 800px;
+}
+h1 {
+  color: #00b39b;
+  font-size: 2.125rem;
+  margin: 1em 0;
+  font-family: Work Sans,Arial,sans-serif;
+  font-weight: 300;
+  text-align: center;
+}
+.bb {
+
+  background-color: #e5faf8 !important ;
+  color: #747474   !important;
+
+}
+h5{ margin-left: 100px ;
+  color: #747474;
+}
+p , li {
+  line-height: 1.75;
+  font-weight: 400;
+  margin: 0 20px 0 20px;
+  color: #747474;
+}
+.learning {
+ margin : 0 300px 0 300px;
+
+
+}
+.heading{
+margin: 0 430px 0 430px;}
+ul{
+  margin: 0 600px 0 600px;
+
+}
